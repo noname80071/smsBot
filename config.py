@@ -11,7 +11,7 @@ class Config:
         if os.path.exists('config.json'):
             return True
         data = {
-            'bot_token': '6855057624:AAHIp01daxJWbtHh9IIi4MjQpwHwMu3oOsE',
+            'bot_token': '',
             # данные для авторизации на СМС сервере
             'url': '199.247.21.208.sslip.io',
             'login': 'developer',
